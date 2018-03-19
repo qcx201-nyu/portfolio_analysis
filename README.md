@@ -1,2 +1,2 @@
 # portfolio_analysis
-Project in stock portfolio analysis
+Project for stock portfolio analysis (work in progress)
